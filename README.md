@@ -12,7 +12,7 @@ All the notebooks are stored in kaggle, so a kaggle account is needed
 ### Step2: Run the code in the kaggle notebook
 You can run the notebook with the link provided below.
 
-## Warmup: Overfit the model on small dataset to verfity the method work
+## Warmup: Overfit the model on small dataset to verify the method work
 
 ## Simple task Baseline: Train the model on larger simple dataset to verify the model has enough ability
 Link: https://www.kaggle.com/yihuazhou1999/simple-text-model-checkpoint <br />
