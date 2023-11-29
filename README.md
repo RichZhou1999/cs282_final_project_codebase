@@ -1,10 +1,13 @@
-# Fine-tuning Vision Transformer-Based Model forPose-Estimation
+# Fine-tuning BLIP Model for Pose-Estimation task
 Jinxuan Liang, Yihua Zhou, Abdullah Azhar, Anjana Manjunath
+
+<img src="https://github.com/RichZhou1999/cs282_final_project_codebase/blob/12516590ee5d5da61698a8490e0a1c6a263ff09d/sample_results.png" width="48">
 
 In this notebook, we provide the code for 
 1) Preprocessing the MPII dataset to get the fully labeled and visible data
-2) Three checkpoints for different tasks from simple to hard
-3) Plots of our training process
+2) Training loop and hyperparameters for training our base model
+3) Three checkpoints for different tasks from simple to hard
+5) Plots of our training process
 
 # Checkpoints
 ### Step1: Create a kaggle account
@@ -30,5 +33,3 @@ data. To load the model, run the cell right before the training loop. Details ca
 ## Notebook for generating assets for submission
 Link: https://www.kaggle.com/code/a1exliang/blip-fine-tunning?scriptVersionId=152812535 <br />
 This is the notebook we used to generate some of the figures and plots in our final report. 
-
-![Model](sample_results.png)
