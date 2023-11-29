@@ -22,4 +22,8 @@ This notebook was trained on "simple text" aiming to predict the position of the
 The training accuracy is around 90% and the validation accuracy is around 15%. It shows that the model has the potential to learn the desired task.
 
 ## Complex task: Training for all 16 Key Points
+Link: https://www.kaggle.com/code/a1exliang/blip-fine-tunning
+This is the notebook that can be used to play around with the models and data. One can run the training loop on the pre-trained BLIP model, which will 
+take 1.5 hours to reach a similar result as ours. You can also load our checkpoints(early, mid, late) to run inference on the validation data or user input
+data. To load the model, run the cell after the training loop. Details can be found in the notebook. 
 
