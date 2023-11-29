@@ -16,7 +16,7 @@ All the notebooks are stored in kaggle, so a kaggle account is needed
 You can run the notebook with the link provided below.
 
 ## Warmup: Overfit the model on small dataset to verify the method work
-Link: https://www.kaggle.com/azhara001/simple-text-overfitting/edit <br />
+Link: https://www.kaggle.com/code/yihuazhou1999/simple-text-overfitting <br />
 This notebook was trained on 'simple text' using 10 images chosen randomly
 
 ## Simple task Baseline: Train the model on larger simple dataset to verify the model has enough ability
