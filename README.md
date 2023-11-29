@@ -12,7 +12,7 @@ In this notebook, we provide the code for
 # Checkpoints
 ### Step1: Create a kaggle account
 All the notebooks are stored in kaggle, so a kaggle account is needed
-### Step2: Run the code in the kaggle notebook
+### Step2: Run the code in the kaggle notebook(Need to activate GPU accelerate in kaggle!)
 You can run the notebook with the link provided below.
 
 ## Warmup: Overfit the model on small dataset to verify the method work
