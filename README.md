@@ -31,3 +31,4 @@ data. To load the model, run the cell right before the training loop. Details ca
 Link: https://www.kaggle.com/code/a1exliang/blip-fine-tunning?scriptVersionId=152812535 <br />
 This is the notebook we used to generate some of the figures and plots in our final report. 
 
+![Model](sample_results.png)
