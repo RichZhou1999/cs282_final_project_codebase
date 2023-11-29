@@ -31,5 +31,5 @@ take 1.5 hours to reach a similar result as ours. You can also load our checkpoi
 data. To load the model, run the cell right before the training loop. Details can be found in the notebook. 
 
 ## Notebook for generating assets for submission
-Link: https://www.kaggle.com/code/a1exliang/blip-fine-tunning?scriptVersionId=152812535 <br />
+Link: [https://www.kaggle.com/code/a1exliang/blip-fine-tunning?scriptVersionId=152812535](https://www.kaggle.com/code/yihuazhou1999/blip-fine-tunning) <br />
 This is the notebook we used to generate some of the figures and plots in our final report. 
