@@ -1,7 +1,7 @@
 # Fine-tuning BLIP Model for Pose-Estimation task
 Jinxuan Liang, Yihua Zhou, Abdullah Azhar, Anjana Manjunath
 
-<img src="https://github.com/RichZhou1999/cs282_final_project_codebase/blob/12516590ee5d5da61698a8490e0a1c6a263ff09d/sample_results.png" width="400">
+<img src="https://github.com/RichZhou1999/cs282_final_project_codebase/blob/12516590ee5d5da61698a8490e0a1c6a263ff09d/sample_results.png" width="500">
 
 In this notebook, we provide the code for 
 1) Preprocessing the MPII dataset to get the fully labeled and visible data
