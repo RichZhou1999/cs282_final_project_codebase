@@ -10,6 +10,7 @@ In this notebook, we provide the code for
 5) Plots of our training process
 
 # Checkpoints
+## All notebooks and datasets are stored on kaggle. Currently, we do not support the notebook with colab. Please run the notebook in kaggle. 
 ### Step1: Create a kaggle account
 All the notebooks are stored in kaggle, so a kaggle account is needed
 ### Step2: Run the code in the kaggle notebook(Need to activate GPU accelerator in kaggle!)
